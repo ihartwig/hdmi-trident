@@ -15,6 +15,7 @@ _autosave-*
 fp-info-cache
 *.dwl
 *.dwl2
+*-backups/*.zip
 
 # Netlist files (exported from Eeschema)
 *.net
